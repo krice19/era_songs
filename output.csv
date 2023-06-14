@@ -1,0 +1,34 @@
+,Count,City,Night,City_Night,Date,Week Day,Surprise Song 1,Suprise Song 1 URI,Surprise Song 2,Suprise Song 2 URI,Lat,Long,Surprise Night 1 Popularity,Surprise Night 2 Popularity,Average Popularity
+0,1,"Glendale, AZ",1,"Glendale, AZ Night 1",March 17,Friday,mirrorball,0ZNU020wNYvgW84iljPkPP,Tim McGraw,0Om9WAB5RS09L80DyOfTNa,33.528839,-112.263901,80,70,75.0
+1,2,"Glendale, AZ",2,"Glendale, AZ Night 2",March 18,Saturday,State Of Grace (Taylor's Version),5lFDIbYMcFHPPgzMcnPqSz,this is me trying,7kt9e9LFSpN1zQtYEl19o1,33.528839,-112.263901,59,79,69.0
+2,3,"Las Vegas, NV",1,"Las Vegas, NV Night 1",March 24,Friday,Our Song,15DeqWWQB4dcEWzJg15VrN,Snow On The Beach (feat. Lana Del Rey),1wtOxkiel43cVs0Yux5Q4h,36.090794,-115.183952,77,83,80.0
+3,4,"Las Vegas, NV",2,"Las Vegas, NV Night 2",March 25,Saturday,cowboy like me,1XjHRolIXL2M1EEOUsGGR4,White Horse (Taylor's Version),5YL553x8sHderRBDlm3NM3,36.090794,-115.183952,71,73,72.0
+4,5,"Arlington, TX",1,"Arlington, TX Night 1",March 31,Friday,Sad Beautiful Tragic (Taylor's Version),21SralRv4ucDT3i1rYrr85,Ours,1EQn3Uc5AyUXoiPLeyCrrg,32.747841,-97.093628,56,65,60.5
+5,6,"Arlington, TX",2,"Arlington, TX Night 2",April 1,Saturday,Death By a Thousand Cuts,2dgFqt3w9xIQRjhPtwNk3D,Clean,4bXCcoesMt8u99xMsbLr9U,32.747841,-97.093628,80,71,75.5
+6,7,"Arlington, TX",3,"Arlington, TX Night 3",April 2,Sunday,Jump Then Fall (Taylor's Version),2m3ObD945KvpE5y9A1eUWm,The Lucky One (Taylor's Version),4e5ayHsOLJNLTGfjau2mEw,32.747841,-97.093628,69,71,70.0
+7,8,"Tampa, FL",1,"Tampa, FL Night 1",April 13,Thursday,Speak Now,24DefNCFiWTP8OjYWiXuYe,Treacherous (Taylor's Version),3S7HNKPakdwNEBFIVTL6dZ,27.975958,-82.503693,71,72,71.5
+8,9,"Tampa, FL",2,"Tampa, FL Night 2",April 14,Friday,The Great War,3UMrglJeju5yWyYIW6o99b,You're On Your Own Kid,4D7BCuvgdJlYvlX5WlN54t,27.975958,-82.503693,81,85,83.0
+9,10,"Tampa, FL",3,"Tampa, FL Night 3",April 15,Saturday,mad woman,2QDyYdZyhlP2fp79KZX8Bi,Mean,5yEPktRqvIhko5QFF3aBhQ,27.975958,-82.503693,71,72,71.5
+10,11,"Houston, TX",1,"Houston, TX Night 1",April 21,Friday,Wonderland,6iWMI5oOhWrDbLbjmwTWFq,You're Not Sorry (Taylor's Version),6iiAfo4wTA2CVC3Uwx9uh8,29.68486,-95.411667,70,71,70.5
+11,12,"Houston, TX",2,"Houston, TX Night 2",April 22,Saturday,A Place In This World,73OX8GdpOeGzKC6OvGSbsv,Today Was A Fairytale,2JoJrsEV15OzbijS47lids,29.68486,-95.411667,62,68,65.0
+12,13,"Houston, TX",3,"Houston, TX Night 3",April 23,Sunday,Begin Again (Taylor's Version),05GsNucq8Bngd9fnd4fRa0,Cold As You,7an1exwMnfYRcdVQm0yDev,29.68486,-95.411667,73,62,67.5
+13,14,"Atlanta, GA",1,"Atlanta, GA Night 1",April 28,Friday,The Other Side Of The Door (Taylor's Version),1cSFlSBdpT4F5vb1frQ231,coney island (feat. The National),3k7ne7VmH43ZPWxPdvPUgR,33.755489,-84.401993,72,68,70.0
+14,15,"Atlanta, GA",2,"Atlanta, GA Night 2",April 29,Saturday,High Infidelity,5kiZGSxgqPdv6rbqL9THdd,Gorgeous,1ZY1PqizIl78geGM4xWlEA,33.755489,-84.401993,76,84,80.0
+15,16,"Atlanta, GA",3,"Atlanta, GA Night 3",April 30,Sunday,I Bet You Think About Me (Taylor's Version) (From The Vault),4CkgMiMqZ5JzW9iYXSTMTL,How You Get The Girl,6wfugRLamFsTRbPcCpNnP7,33.755489,-84.401993,77,69,73.0
+16,17,"Nashville, TN",1,"Nashville, TN Night 1",May 5,Friday,Sparks Fly,6d9IiDcFxtFVIvt9pCqyGH,Teardrops On My Guitar,7zMcNqs55Mxer82bvZFkpg,36.166479,-86.77129,72,71,71.5
+17,18,"Nashville, TN",2,"Nashville, TN Night 2",May 6,Saturday,Out Of The Woods,5OndtwLGA9O6XHFcGm2H7r,Fifteen (Taylor's Version),2nqio0SfWg6gh2eCtfuMa5,36.166479,-86.77129,72,74,73.0
+18,19,"Nashville, TN",3,"Nashville, TN Night 3",May 7,Sunday,Would've Could've Should've,0aV5uARAknQgYhBaK944FP,Mine,0dBW6ZsW8skfvoRfgeerBF,36.166479,-86.77129,80,73,76.5
+19,20,"Philadelphia, PA",1,"Philadelphia, PA Night 1",May 12,Friday,gold rush,5BK0uqwY9DNfZ630STAEaq,Come Back...Be Here (Taylor's Version),4pNApnaUWAL2J4KO2eqokq,39.900898,-75.168098,75,73,74.0
+20,21,"Philadelphia, PA",2,"Philadelphia, PA Night 2",May 13,Saturday,Forever & Always (Taylor's Version),1msEuwSBneBKpVCZQcFTsU,This Love (Taylor's Version),4d1CG5ei1E2vGbvmgf5KKv,39.900898,-75.168098,74,78,76.0
+21,22,"Philadelphia, PA",3,"Philadelphia, PA Night 3",May 14,Sunday,Hey Stephen (Taylor's Version),550erGcdD9n6PnwxrvYqZT,The Best Day (Taylor's Version),6ON9UuIq49xXY9GPmHIYRp,39.900898,-75.168098,72,68,70.0
+22,23,"Foxborough, MA",1,"Foxborough, MA Night 1",May 19,Friday,Should've Said No,16MVSD0mGI4RMQT83Qzm69,Better Man (Taylor's Version) (From The Vault),4OmFmE0fzcMG6g0Y8p4eSD,42.095368,-71.261648,71,73,72.0
+23,24,"Foxborough, MA",2,"Foxborough, MA Night 2",May 20,Saturday,Question...?,7oomkQSYf1ia2VnVEWfFIU,Invisible,5OOd01o2YS1QFwdpVLds3r,42.095368,-71.261648,70,60,65.0
+24,25,"Foxborough, MA",3,"Foxborough, MA Night 3",May 21,Sunday,I Think He Knows,2YWtcWi3a83pdEg3Gif4Pd,Red (Taylor's Version),4OAuvHryIVv4kMDNSLuPt6,42.095368,-71.261648,79,81,80.0
+25,26,"East Rutherford, NJ",1,"East Rutherford, NJ Night 1",May 26,Friday,Getaway Car,0VE4kBnHJUgtMf0dy6DRmW,Maroon,3eX0NZfLtGzoLUxPNvRfqm,40.813778,-74.07431,86,83,84.5
+26,27,"East Rutherford, NJ",2,"East Rutherford, NJ Night 2",May 27,Saturday,Holy Ground (Taylor's Version),661CJWXysgwKXI1dreYNBU,False God,5hQSXkFgbxjZo9uCwd11so,40.813778,-74.07431,56,78,67.0
+27,28,"East Rutherford, NJ",3,"East Rutherford, NJ Night 3",May 28,Sunday,Welcome to New York,6qnM0XXPZOINWA778uNqQ9,Clean,4bXCcoesMt8u99xMsbLr9U,40.813778,-74.07431,69,71,70.0
+28,29,"Chicago, IL",1,"Chicago, IL Night 1",June 2,Friday,I Wish You Would,1B5VzXPqMlvRw0U4HJY3dJ,the lakes - bonus track,0eFQWVz0qIxDOvhLpZ40P7,41.862366,-87.617256,70,72,71.0
+29,30,"Chicago, IL",2,"Chicago, IL Night 2",June 3,Saturday,You All Over Me (feat. Maren Morris),5pcjystBtalYeqaiXCcgEY,I Don’t Wanna Live Forever (Fifty Shades Darker),55n9yjI6qqXh5F2mYvUc2y,41.862366,-87.617256,65,82,73.5
+30,31,"Chicago, IL",3,"Chicago, IL Night 3",June 4,Sunday,Hits Different,3xYJScVfxByb61dYHTwiby,The Moment I Knew (Taylor's Version),0NRHj8hDwwmSPaA41o379r,41.862366,-87.617256,88,69,78.5
+31,32,"Detroit, MI",1,"Detroit, MI Night 1",June 9,Friday,Haunted,28M2gifMU282QBM3fKajIS,I Almost Do (Taylor's Version),2r9CbjYgFhtAmcFv1cSquB,42.340115,-83.046341,68,71,69.5
+32,33,"Detroit, MI",2,"Detroit, MI Night 2",June 10,Saturday,All You Had To Do Was Stay,0dAb8TY433dl3ZfXYCLE19,Breathe (feat. Colbie Caillat) (Taylor's Version),7HC7R2D8WjXVcUHJyEGjRs,42.340115,-83.046341,68,69,68.5
